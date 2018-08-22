@@ -1,4 +1,6 @@
 
+# This is the https://github.com/surmon-china/vue-video-player fork (video.js version 7.1.0 with http streaming load)
+
 [![NPM](https://nodei.co/npm/vue-video-player-vjs7.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vue-video-player-vjs7/)
 
 # Vue-Video-Player
