@@ -1,7 +1,5 @@
 
 [![NPM](https://nodei.co/npm/vue-video-player-vjs7.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vue-video-player-vjs7/)
-[![NPM](https://nodei.co/npm-dl/vue-video-player-vjs7.png?months=9&height=3)](https://nodei.co/npm/vue-video-player-vjs7/)
-
 
 # Vue-Video-Player
 
