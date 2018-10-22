@@ -6,7 +6,7 @@
 
 <script>
   // lib
-  import _videojs from 'video.js'
+  import _videojs from 'video.js/dist/video.cjs'
   import '@videojs/http-streaming';
 
   const videojs = window.videojs || _videojs
