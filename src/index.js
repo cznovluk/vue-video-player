@@ -6,7 +6,7 @@
 * Adapted from Videojs (https://github.com/videojs/video.js)
 */
 
-import _videojs from 'video.js'
+import _videojs from 'video.js/dist/video.cjs'
 import videoPlayer from './player.vue'
 
 const videojs = window.videojs || _videojs
